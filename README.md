@@ -65,7 +65,7 @@ The various stacks used for the project includes the following
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yemidada.github.io/desktop-version-portfolio/)
+- [Live Demo Link](https://yemidada.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
