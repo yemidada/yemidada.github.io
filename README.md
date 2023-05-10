@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Portfolio: Animation Design</b></h3>
+  <h3><b>Portfolio: App Deployment</b></h3>
 
 </div>
 
@@ -13,6 +13,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
@@ -25,7 +26,7 @@
 - [📝 License](#license)
 
 
-# 📖 Portfolio: Animation Design <a name="about-project"></a>
+# 📖 Portfolio: App Deployment <a name="about-project"></a>
 
 **For this project, I established a repository for my portfolio website. My objective is to develop a complete portfolio website that is responsive on both mobile and web platform.**
 
@@ -59,6 +60,13 @@ The various stacks used for the project includes the following
 - **Utilize Flexbox to position various elements on a web page.**
 - **Utilize CSS Grid to arrange different elements on a web page.**
 - **Develop a portfolio website.**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://yemidada.github.io/desktop-version-portfolio/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -114,11 +122,7 @@ $ npm install
 
 After you clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
 
-Once the dependencies are installed, you can open the `index.html` with your browser
 
-### Deployment
-
-This project has been deployed to: https://yemidada.github.io
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
